@@ -1,14 +1,1 @@
-version: "3"
-services:
-  clash2sfa:
-    build: .
-    restart: unless-stopped
-    volumes:
-      - dbdata:/server/db
-    ports:
-      - "8080:8080"
-    ulimits:
-      nofile: 65535
-
-volumes:
-  dbdata:
+https://vaonnb.xyz/?L2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg/ZXE9d2luZG93cyZ1cms9MmExN2MxNjktOWNjNy00YTg0LThhODctNWVhMTdmMGE4NGE2Jm1tPTI0ODk3MiY0ZjYzMGNlODEzNzE0ZWQ0Yjk4ODg1MDcwOQ==
